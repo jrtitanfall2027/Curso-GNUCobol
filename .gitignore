@@ -1,0 +1,15 @@
+# Python virtual environments
+.venv/
+venv/
+
+# Local environment variables and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Compiled executables and object files
+*.exe
+*.o
+*.obj
